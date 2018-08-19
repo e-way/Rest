@@ -1,8 +1,4 @@
 using Rest.Builder;
-using Rest.Client;
-using Rest.Model;
-using RestSharp;
-using System;
 using Xunit;
 
 namespace Rest
